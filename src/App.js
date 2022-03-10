@@ -27,7 +27,7 @@ function App() {
           <button onClick={ funcDiminuir}>Remover item do carrinho</button>
 
           <hr/>
-    
+        //vamos ver se agora vai
          <div className='Usuario'> Nome do adasdsadaUsuário: <b>{ user.name }</b>
             <img src={ user.foto } />  
             </div>
